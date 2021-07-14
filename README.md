@@ -1,6 +1,6 @@
-# Mage2 Module Agtech Poc
+# Agtech Module Agtech Poc
 
-    ``agtech/module-poc``
+    "agtech/module-poc"
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
