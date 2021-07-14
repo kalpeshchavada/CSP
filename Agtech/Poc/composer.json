@@ -1,0 +1,22 @@
+{
+    "name": "agtech/module-poc",
+    "description": "This is Demo Module Created for CSP With Static Values",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Akshar Group Technologies",
+            "email": "support@akshargrouptechnologies.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Agtech\\Poc\\": ""
+        }
+    }
+}
